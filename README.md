@@ -11,3 +11,7 @@ actively developed version of this buildpack, available at
 https://bitbucket.org/cf-utilities/cf-buildpack-multi/
 
 Please check out my current project [Convox](https://convox.com) for all of your deployment needs!
+
+
+
+or just update the scripts
